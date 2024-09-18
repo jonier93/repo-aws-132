@@ -1,1 +1,0 @@
-print("impresión de prueba")
