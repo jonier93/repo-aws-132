@@ -11,5 +11,5 @@
 .wget-hsts
 keys.py
 .lesshst
-__pycache__
+__pycache__/
 
