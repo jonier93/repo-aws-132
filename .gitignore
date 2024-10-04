@@ -9,4 +9,6 @@
 .bash_profile
 .bashrc
 .wget-hsts
+keys.py
+.lesshst
 
