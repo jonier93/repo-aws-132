@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+
+div, h1, img {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+button {
+    font-size: 30px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 10px;
+    padding: 7px;
+}
